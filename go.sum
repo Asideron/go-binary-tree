@@ -1,0 +1,6 @@
+github.com/Asideron/go-quicksort v0.0.0-20220908065459-7a71b52a4e69 h1:o5Vi73Q0W31px5LKkJ8Q/W6W5CdnHVFkra9CdP0HjDs=
+github.com/Asideron/go-quicksort v0.0.0-20220908065459-7a71b52a4e69/go.mod h1:+H09Vzu6Y6F0ocHSvUaXwI5TEVzth+MnxP6SNzA22uk=
+golang.org/x/exp v0.0.0-20220907003533-145caa8ea1d0 h1:17k44ji3KFYG94XS5QEFC8pyuOlMh3IoR+vkmTZmJJs=
+golang.org/x/exp v0.0.0-20220907003533-145caa8ea1d0/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
+golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561 h1:MDc5xs78ZrZr3HMQugiXOAkSZtfTpbJLDr/lwfgO53E=
+golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
